@@ -15,4 +15,4 @@ Arduino Touchscreen Shield
 
 
 
-NOTE: This project is not yet completed. Upon completion, a video link will be included to the final assembly being tested at the beginning of README 
+NOTE: This project is not yet completed. Upon completion, a video link will be included at the beginning of README to the final assembly being tested. 
